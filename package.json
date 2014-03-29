@@ -5,7 +5,7 @@
   "main": "index",
   "author": "Boyan Rabchev <boyan@rabchev.com>",
   "dependencies": {
-    "express": "*",
+    "express": "^3.5.1",
     "body-parser": "*",
     "cookie-parser": "*",
     "method-override": "*",
