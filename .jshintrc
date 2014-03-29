@@ -1,4 +1,5 @@
 {
     "node": true,
-    "quotmark": "double"
+    "quotmark": "double",
+    "expr": true
 }
