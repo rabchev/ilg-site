@@ -1,40 +1,40 @@
 {
-    "name": "ilg-site",
-    "description": "",
-    "version": "0.0.1",
-    "main": "index",
-    "author": "Boyan Rabchev <boyan@rabchev.com>",
-    "dependencies": {
-        "express": "*",
-        "body-parser": "*",
-        "cookie-parser": "*",
-        "method-override": "*",
-        "serve-static": "*",
-        "static-favicon": "*",
-        "swagger-node-express": "*",
-        "async": "*",
-        "lodash": "*",
-        "express3-handlebars": "*",
-        "winston": "*",
-        "entree": "*"
-    },
-    "devDependencies": {
-        "mocha": "*",
-        "chai": "*",
-        "sinon-chai": "*",
-        "supertest": "*",
-        "grunt": "*",
-        "grunt-release": "*",
-        "grunt-shell": "*",
-        "grunt-simple-mocha": "*",
-        "grunt-node-inspector": "*",
-        "grunt-concurrent": "*"
-    },
-    "scripts": {
-        "start": "node index",
-        "test": "grunt test"
-    },
-    "engines": {
-        "node": "0.10.x"
-    }
+  "name": "ilg-site",
+  "description": "",
+  "version": "0.0.2",
+  "main": "index",
+  "author": "Boyan Rabchev <boyan@rabchev.com>",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "method-override": "*",
+    "serve-static": "*",
+    "static-favicon": "*",
+    "swagger-node-express": "*",
+    "async": "*",
+    "lodash": "*",
+    "express3-handlebars": "*",
+    "winston": "*",
+    "entree": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "supertest": "*",
+    "grunt": "*",
+    "grunt-release": "*",
+    "grunt-shell": "*",
+    "grunt-simple-mocha": "*",
+    "grunt-node-inspector": "*",
+    "grunt-concurrent": "*"
+  },
+  "scripts": {
+    "start": "node index",
+    "test": "grunt test"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
 }
