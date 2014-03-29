@@ -1,0 +1,26 @@
+{
+    "connections": {
+        "mongodb": {
+            "provider": "mongodb",
+            "options": {
+                "connStr": "mongodb://localhost/ilg-dev"
+            }
+        }
+    },
+    "environments": {
+        "development": {
+            "defaultConnection": "fs-default"
+        },
+        "testing": {
+            "defaultConnection": "mongodb"
+        },
+        "production": {
+            "defaultConnection": "mongodb"
+        }
+    },
+    "collections": [
+        {
+            "name": "offers"
+        }
+    ]
+}
