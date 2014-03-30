@@ -7,6 +7,7 @@ before_install: npm install -g grunt-cli
 deploy:
   provider: appfog
   email: boyan@rabchev.com
+  skip_cleanup: true
   password:
     secure: JvuXFBJok9iTldyP6FZRCnlRGtTcVgZIaTfnqp1qfLOuwzzeADVvmjPxQCyjgzYCCH+NT3uiZVq51gquO7WwC7pu5L4rTqSWuWOfB+larxm/CL0Vt2CMFWEgOubyoTuMUU/pF/Bg46eOzof2k7CUcmbhZlVicFD1XXk5O8AKd2w=
   app:
