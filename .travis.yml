@@ -15,4 +15,3 @@ deploy:
     production: ilg
   on:
     tags: true
-    repo: rabchev/ilg-site
