@@ -15,3 +15,6 @@ deploy:
     production: ilg
   on:
     tags: true
+    repo: rabchev/ilg-site
+    node: 0.10
+    branch: master
