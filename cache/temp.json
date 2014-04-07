@@ -1,0 +1,18 @@
+{
+    "mongodb2-2.4.8": [{
+        "name": "travel-data",
+        "label": "mongodb2-2.4.8",
+        "plan": "free",
+        "tags": ["mongodb2", "mongodb2-2.4.8", "nosql", "mongodb2-2.4.8", "mongodb2"],
+        "credentials": {
+            "hostname": "10.0.45.242",
+            "host": "10.0.45.242",
+            "port": 25112,
+            "username": "daeeb1db-80d8-4030-b76b-18a73a8f7299",
+            "password": "f0ee74c1-4b68-46a6-9949-d9ceba3b3562",
+            "name": "0bc812e4-44c5-4888-941d-dc20569b0c9e",
+            "db": "db",
+            "url": "mongodb://daeeb1db-80d8-4030-b76b-18a73a8f7299:f0ee74c1-4b68-46a6-9949-d9ceba3b3562@10.0.45.242:25112/db"
+        }
+    }]
+}
