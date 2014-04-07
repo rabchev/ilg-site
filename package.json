@@ -1,7 +1,7 @@
 {
   "name": "ilg-site",
   "description": "",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "main": "index",
   "author": "Boyan Rabchev <boyan@rabchev.com>",
   "dependencies": {
